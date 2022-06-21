@@ -142,7 +142,6 @@ flutter:
   assets:
     - assets/drawable/
     - assets/drawable/images/
-    - assets/drawable/logos/
     - assets/drawable/icons/
     #   - images/a_dot_burr.jpeg
     #   - images/a_dot_ham.jpeg
